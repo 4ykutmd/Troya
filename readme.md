@@ -1,15 +1,15 @@
-Gerekli kütüphaneleri kurmak için:
+Required libs:
 
 pip install pyinstaller\
 pip install opencv-python\
 pip install imutils
 
-socket kütüphanesi python kurulduğunda python ile birlikte yüklü gelmektedir.
+Commands:
 
-indir = dosya indirme komutu\
-gonder = dosya gönderme komutu\
-webcam_izle = webcam izleme komutu
+indir = Download a file\
+gonder = Upload a file\
+webcam_izle = Watch the webcam
 
-download = download file\
-upload = upload file\
-webcam_start = watch webcam
+download = Download a file\
+upload = Upload a file\
+webcam_start = Watch the webcam
